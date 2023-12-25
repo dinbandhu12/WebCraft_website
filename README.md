@@ -16,7 +16,7 @@ WebCraft is a practice project created for web developers who want to experiment
 
 ## See Live Here
 
-Click here [webcraft.example.com](https://webcraft.example.com) to see live website on netlify.
+Click here [webcraft-website](https://webcraft-website.netlify.app/) to see live website on netlify.
 
 ## Contributing
 
