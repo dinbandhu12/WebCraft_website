@@ -6,6 +6,8 @@ Welcome to WebCraft, a simple SaaS playground designed for honing your web devel
 
 WebCraft is a practice project created for web developers who want to experiment, learn, and improve their coding abilities. Whether you're a beginner or an experienced developer, use WebCraft to sharpen your skills in a fun and interactive environment.
 
+![WebCraft Output](/assets/output.png)
+
 ## Features
 
 - **Code Playground:** Experiment with HTML, CSS, and JavaScript in a no-pressure environment.
