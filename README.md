@@ -14,9 +14,9 @@ WebCraft is a practice project created for web developers who want to experiment
 - **Mini Projects:** Tackle small projects to apply your skills in a real-world context.
 - **Responsive Design:** Explore the basics of responsive web design with our sample projects.
 
-## Getting Started
+## See Live Here
 
-Visit [webcraft.example.com](https://webcraft.example.com) to start coding. No accounts required!
+Click here [webcraft.example.com](https://webcraft.example.com) to see live website on netlify.
 
 ## Contributing
 
